@@ -102,6 +102,6 @@ Please add your name in the list in the following format:
 - [Anurag Teckchandani](https://github.com/anurag444/)
 - [Yashi Srivastava](https://github.com/yashii/) 
 - [Devyank Nagpal](https://github.com/2devyank/)
-
+- [Nidhi Dewangan](https://github.com/nidhidewangan03/Hacktoberfest/blob/hacktoberfestcp/romantointeger.py)
 
 Please do not spam the repository with unnecessary Pull Requests. Happy Hacking!
